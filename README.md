@@ -1,5 +1,5 @@
 # Datathon
-This is our repository for the WIDS datathon
+Our work was done using https://colab.research.google.com/drive/1U8sP5O0b6XK1NT-OUyZl20lHefaTbyQ-?usp=sharing#scrollTo=1G2kS0dAc_zO notebook. Here is our final submission video https://drive.google.com/file/d/1z2k7XUTMAXtdJjTa3oE_l-5Q4m_0Hwhp/view?usp=sharing .
 
 ## Problem statement
 What is the relationship between sports performance in the Olympics and wage inequality between men and women.
